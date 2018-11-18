@@ -1,7 +1,7 @@
 class Config:
-    IMAGE_W = 100
-    IMAGE_H = 200
-    IMAGE_C = False
-    ROTATE = 20
+    IMAGE_W = 400
+    IMAGE_H = 400
+    IMAGE_C = True
+    ROTATE = 10
     ROTATE_REVERSE = True
     WHITE_BLACK = True
