@@ -1,5 +1,9 @@
 # Zadanie-Pillow
 
+Program for editing multiple images, after placing them in folder, script will edit all of them according to settings.
+- Used tools and technologies: Python, Pillow
+
+Usage:
 1. cd to the directory of repository.
 2. activate your virtualenv.
 3. run: `pip install -r requirements.txt` in your shell.
